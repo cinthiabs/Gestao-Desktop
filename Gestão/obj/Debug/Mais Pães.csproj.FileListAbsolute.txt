@@ -1,0 +1,48 @@
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\bin\Debug\Mais Pães.exe.config
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\bin\Debug\Mais Pães.exe
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\bin\Debug\Mais Pães.pdb
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais Pães.csprojAssemblyReference.cache
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmMenu.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.Properties.Resources.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais Pães.csproj.GenerateResource.cache
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais Pães.csproj.CoreCompileInputs.cache
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais Pães.exe
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais Pães.pdb
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmProdutoCadastrar.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmVendasCadastrar.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmProdutoAtualizar.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmProdutoExcluir.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmProdutoPesquisar.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmVendasAtualizar.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmVendasPesquisar.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmVendasExcluir.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmEstoque.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmEstoqueAtualizar.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmEstoquePesquisar.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmCalculadora.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmEstoqueExcluir.resources
+C:\Users\cinth\Desktop\Mais Pães\Mais Pães\Mais Pães\obj\Debug\Mais_Pães.FrmRelatorio.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\bin\Debug\Mais Pães.exe.config
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\bin\Debug\Mais Pães.exe
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\bin\Debug\Mais Pães.pdb
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais Pães.csprojAssemblyReference.cache
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmMenu.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmCalculadora.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmEstoque.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmEstoqueAtualizar.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmEstoqueExcluir.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmEstoquePesquisar.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmProdutoAtualizar.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmProdutoCadastrar.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmProdutoExcluir.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmProdutoPesquisar.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmRelatorio.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmVendasAtualizar.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmVendasCadastrar.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmVendasExcluir.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.FrmVendasPesquisar.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais_Pães.Properties.Resources.resources
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais Pães.csproj.GenerateResource.cache
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais Pães.csproj.CoreCompileInputs.cache
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais Pães.exe
+C:\Users\cinth\Desktop\Mais Pães\SOFTWARE DE GESTÃO\Mais Pães\obj\Debug\Mais Pães.pdb
